@@ -28,7 +28,7 @@
   <li><a href="http://code.google.com/p/gedit-tabsextend/">http://code.google.com/p/gedit-tabsextend/</a></li>
 </ul>
 <div class="zemanta-pixie" style="margin-top: 10px; height: 15px;">
-  <img class="zemanta-pixie-img" style="border: none; float: right; display: none !important;" src="https://web.archive.org/web/20140122021101im_/http://img.zemanta.com/pixy.gif?x-id=0346f624-1fc3-4129-abf0-15a82193da1d" alt="" hidden="" />
+  <img class="zemanta-pixie-img" style="border: none; float: right; display: none !important;" src="http://img.zemanta.com/pixy.gif?x-id=0346f624-1fc3-4129-abf0-15a82193da1d" alt="" hidden="" />
 </div>
 <div class="link-summarizer">
   <h3>Link Summary</h3>

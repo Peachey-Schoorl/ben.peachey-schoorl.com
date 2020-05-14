@@ -38,7 +38,7 @@
 <p>This is what I came up with:</p>
 <p>
   <a title="Sometimes you just need that extra focus..." href="http://ben.peachey-schoorl.com/work_blog/wp-content/uploads/2011/03/daily-scrum.png">
-    <img src="https://web.archive.org/web/20140122035756im_/http://ben.peachey-schoorl.com/work_blog/wp-content/uploads/2011/03/daily-scrum.png" alt="Sometimes you just need that extra focus..." />
+    <img src="http://ben.peachey-schoorl.com/work_blog/wp-content/uploads/2011/03/daily-scrum.png" alt="Sometimes you just need that extra focus..." />
   </a>
 </p>
 <p>&nbsp;</p>

@@ -8,7 +8,7 @@
   <img
     class="attachment-medium alignright"
     title="Pity the Schools"
-    src="https://web.archive.org/web/20110313001815im_/http://ben.peachey-schoorl.com/work_blog/wp-content/uploads/2011/01/pity-the-schools-300x300.jpg"
+    src="http://ben.peachey-schoorl.com/work_blog/wp-content/uploads/2011/01/pity-the-schools-300x300.jpg"
     alt="If yo' cool, yo' pity the W3Schools!"
     width="300"
     height="300"

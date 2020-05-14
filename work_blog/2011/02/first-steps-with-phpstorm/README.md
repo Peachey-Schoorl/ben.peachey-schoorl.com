@@ -30,15 +30,15 @@
           </td>
           <td align="right">
             <a href="http://ben.peachey-schoorl.com/work_blog/2011/02/first-steps-with-phpstorm/#codesyntax_1" onclick="javascript:wpsh_code(1)" title="Show code only">
-              <img border="0" style="border: 0 none;" src="https://web.archive.org/web/20140122035548im_/http://ben.peachey-schoorl.com/work_blog/wp-content/plugins/wp-synhighlight/themes/default/images/code.png" />
+              <img border="0" style="border: 0 none;" src="http://ben.peachey-schoorl.com/work_blog/wp-content/plugins/wp-synhighlight/themes/default/images/code.png" />
             </a>
             &nbsp;
             <a href="http://ben.peachey-schoorl.com/work_blog/2011/02/first-steps-with-phpstorm/#codesyntax_1" onclick="javascript:wpsh_print(1)" title="Print code">
-              <img border="0" style="border: 0 none;" src="https://web.archive.org/web/20140122035548im_/http://ben.peachey-schoorl.com/work_blog/wp-content/plugins/wp-synhighlight/themes/default/images/printer.png" />
+              <img border="0" style="border: 0 none;" src="http://ben.peachey-schoorl.com/work_blog/wp-content/plugins/wp-synhighlight/themes/default/images/printer.png" />
             </a>
             &nbsp;
             <a href="http://ben.peachey-schoorl.com/work_blog/wp-content/plugins/wp-synhighlight/About.html" target="_blank" title="Show plugin information">
-              <img border="0" style="border: 0 none;" src="https://web.archive.org/web/20140122035548im_/http://ben.peachey-schoorl.com/work_blog/wp-content/plugins/wp-synhighlight/themes/default/images/info.gif" />
+              <img border="0" style="border: 0 none;" src="http://ben.peachey-schoorl.com/work_blog/wp-content/plugins/wp-synhighlight/themes/default/images/info.gif" />
             </a>
             &nbsp;
           </td>
