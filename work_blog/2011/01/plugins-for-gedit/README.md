@@ -1,80 +1,50 @@
-<h1>
-  09 Jan 11
-  <a href="http://ben.peachey-schoorl.com/work_blog/2011/01/w3fools-teaching-w3schools-a-lesson/" rel="bookmark" title="Permanent Link to W3Fools: Teaching W3Schools a lesson">
-    W3Fools: Teaching W3Schools a lesson
-  </a>
-</h1>
-<p>
-  <img
-    class="attachment-medium alignright"
-    title="Pity the Schools"
-    src="http://ben.peachey-schoorl.com/work_blog/wp-content/uploads/2011/01/pity-the-schools-300x300.jpg"
-    alt="If yo' cool, yo' pity the W3Schools!"
-    width="300"
-    height="300"
-  />
-</p>
-<p>
-  Reading through my news feed over at <a title="social Coding > GitHub.com" rel="homepage" href="http://github.com/" target="_blank">Github</a> I noticed that the esteemed
-  <a title="The guy who makes the www fun > paulirish.com" href="http://paulirish.com/" target="_blank">Paul Irish</a> had created a new Git repository. Because
-  <del>I have an inquisitive mind</del> I am nosey, I clicked through to investigate things and came across something quite interesting… But first some background information.
-</p>
-<p>
-  When I started out learning web development, I frequently looked things up on
-  <a title="outfated resource > W3Schools.com" rel="nofollow" href="http://www.w3schools.com/" target="_blank">W3Schools.com</a>. Now, thanks to my
-  <a title="My current IDE of choice > Netbeans" href="http://netbeans.org/" target="_blank">IDE</a>, other resources and years of experience I don’t really visit there any more. And, also,
-  &nbsp;because of the… uhm… <em>other</em> reason. The one that has been circulating the web for years but somehow never gained much momentum.&nbsp;The
-  <a title='Explanation of the saying "Elephant in the room" > Wikipedia' rel="wikipedia" href="http://en.wikipedia.org/wiki/Elephant_in_the_room" target="_blank">elephant-in-the-room</a> reason. I
-  am, of course, referring to the&nbsp;fact that the information over at W3Schools is, in general, outdated, incomplete or wrong up to the &nbsp;point of were it has become a bit of an embarrassment.
-</p>
-<p>
-  I guess that the main reason no-one ever really tore into this, is the fact that most of us&nbsp;start out in web development with a lot of help from W3Schools.com. Either we’ve moved on and don’t look back, or we look back with fondness
-  and think there’s no real harm. I’ve read a lot of comments on this topic where the W3Schools are complimented for the no-knowledge-needed explanations. Sadly, thought learning may be made easy, what people are learning is a set of bad
-  habits and incorrect theories. There is a general tendency, because there isn’t another source as readily available, we should forgive it for being decidedly less than perfect. To me that sounds just a bit too much like an excuse for
-  staying with a wife beater, but hey,
-  <a title="To Each His Own > 1946 Movie Poster" href="http://ben.peachey-schoorl.com/work_blog/wp-content/uploads/2011/01/to-each-his-own.jpg" target="_blank">to each his own</a>…
-</p>
-<p>
-  Things, however, might be about to change. A few brave souls have bundled together their wisdom and knowledge and decided to take on the task of clearing up this mess. Only not in the way you might think. Remember that Git repository I
-  mentioned? It’s named <a title="w3fools > paulirish > github.com" href="https://github.com/paulirish/w3fools" target="_blank">W3Fools</a>. It is a self-descibed Takedown of W3Schools. Despite
-  its&nbsp;maintained&nbsp;popularity there are <a title="HTML and CSS Tutorials. And Stuff > HtmlDog.com/" href="http://htmldog.com/" target="_blank">plenty of</a>
-  <a title="Prime source for browser compatibility information on the Internet > Quirksmode" href="http://www.quirksmode.org/" target="_blank">other</a>
-  <em><a title="Web design tutorials, articles and community > SitePoint.com" href="http://www.sitepoint.com/" target="_blank">better</a> </em>
-  <a title="Web Developer Community > Mozilla Developer Network " href="http://developer.mozilla.org/web/" target="_blank">resources</a> out there gaining ground. Besides, giants have been toppled
-  before. Remember Goliath? Or
-  <a title="Experts-Exchange versus StackOverflow" href="http://www.google.com/trends?q=%22stackoverflow%22,+%22expert+exchange%22" target="_blank">Experts-exchange</a>?
-</p>
-<p>
-  The site <a title="A Takedown of W3Schools > W3Fools.com" href="http://w3fools.com/" target="_blank">W3Fools</a> has been registered but will not launch until next week, so this should be fun to
-  watch unravel!
-</p>
+<h1>04 Jan 11 <a href="http://ben.peachey-schoorl.com/work_blog/2011/01/plugins-for-gedit/" rel="bookmark" title="Permanent Link to Plugins for Gedit">Plugins for Gedit</a></h1>
+<h2>Unmissable</h2>
+<ul>
+  <li>
+    <a href="https://github.com/jefferyto/gedit-control-your-tabs" target="_blank">Control Your Tabs</a> – Switch between tabs using Ctrl-Tab / Ctrl-Shift-Tab (most recently used order) or
+    Ctrl-PageUp / Ctrl-PageDown (tabbar order).
+  </li>
+  <li>
+    <a href="http://code.google.com/p/reopen-tabs-gedit-plugin/" target="_blank">Reopen Tabs</a> – Remembers and reopens the documents that were open when
+    <a class="zem_slink" title="Gedit" href="http://www.gnome.org/projects/gedit/" rel="homepage">Gedit</a> closed, including the active tab.
+  </li>
+  <li>
+    <a href="http://halfhourhacks.blogspot.com/2008/03/gedit-regular-expression-plugin.html" target="_blank">Regular Expression</a> –
+    <a class="zem_slink" title="Regular expression" href="http://en.wikipedia.org/wiki/Regular_expression" rel="wikipedia">RegEx</a> search and replace, supports backreferences.
+  </li>
+  <li>
+    <a href="http://hartmann-it-design.de/gedit/TextWrap/" target="_blank">TextWrap</a> – Adds a menu-item, shortcut and toolbar icon that allows you to toggle
+    <a class="zem_slink" title="Word wrap" href="http://en.wikipedia.org/wiki/Word_wrap" rel="wikipedia">Text Wrap</a> mode&nbsp;(aka , Word Wrap, Line Break, Wrap Lines, Paragraph Wrap etc.)
+  </li>
+  <li><a href="http://empty.23inch.de/pmwiki.php/Main/EditShortcuts" target="_blank">EditShortcuts</a> – Let you assign keyboard shortcuts to all menu-items.</li>
+</ul>
+<h2>Yet To Try</h2>
+<ul>
+  <li><a href="http://www.stambouliote.de/projects/gedit_plugins.html" target="_blank">Class Browser Plugin</a> – Generic Class Browser.</li>
+  <li><a href="http://code.google.com/p/gedit-open-folder/" target="_blank">Open Folder</a> – Uses nautilus to open the folder containing the current file.</li>
+  <li><a href="http://blog.goranrakic.com/archives/tabclose.html" target="_blank">tabclose</a> – Close Gedit window when last tab is closed.</li>
+  <li><a href="https://github.com/dinkel/gedit-zoom/downloads/" target="_blank">gedit-Zoom</a> – Change the font size using either the menu bar, keyboard shortcuts or &lt;ctrl&gt;-mousewheel.</li>
+  <li><a href="http://code.google.com/p/gedit-tabsextend/">http://code.google.com/p/gedit-tabsextend/</a></li>
+</ul>
+<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;">
+  <img class="zemanta-pixie-img" style="border: none; float: right; display: none !important;" src="http://img.zemanta.com/pixy.gif?x-id=0346f624-1fc3-4129-abf0-15a82193da1d" alt="" hidden="" />
+</div>
 <div class="link-summarizer">
   <h3>Link Summary</h3>
   <ul>
-    <li><a title="social Coding > GitHub.com" rel="homepage" href="http://github.com/" target="_blank">social Coding &gt; GitHub.com</a></li>
-    <li><a title="The guy who makes the www fun > paulirish.com" href="http://paulirish.com/" target="_blank">The guy who makes the...un &gt; paulirish.com</a></li>
-    <li><a title="outfated resource > W3Schools.com" rel="nofollow" href="http://www.w3schools.com/" target="_blank">outfated resource &gt; W3Schools.com</a></li>
-    <li><a title="My current IDE of choice > Netbeans" href="http://netbeans.org/" target="_blank">My current IDE of choice &gt; Netbeans</a></li>
-    <li>
-      <a title='Explanation of the saying "Elephant in the room" > Wikipedia' rel="wikipedia" href="http://en.wikipedia.org/wiki/Elephant_in_the_room" target="_blank">
-        Explanation of the sa..." &gt; Wikipedia
-      </a>
-    </li>
-    <li>
-      <a title="To Each His Own > 1946 Movie Poster" href="http://ben.peachey-schoorl.com/work_blog/wp-content/uploads/2011/01/to-each-his-own.jpg" target="_blank">
-        To Each His Own &gt; 1946 Movie Poster
-      </a>
-    </li>
-    <li><a title="w3fools > paulirish > github.com" href="https://github.com/paulirish/w3fools" target="_blank">w3fools &gt; paulirish &gt; github.com</a></li>
-    <li><a title="HTML and CSS Tutorials. And Stuff > HtmlDog.com/" href="http://htmldog.com/" target="_blank">HTML and CSS Tutorial...uff &gt; HtmlDog.com/</a></li>
-    <li>
-      <a title="Prime source for browser compatibility information on the Internet > Quirksmode" href="http://www.quirksmode.org/" target="_blank">Prime source for brow...ernet &gt; Quirksmode</a>
-    </li>
-    <li><a title="Web design tutorials, articles and community > SitePoint.com" href="http://www.sitepoint.com/" target="_blank">Web design tutorials,...ty &gt; SitePoint.com</a></li>
-    <li><a title="Web Developer Community > Mozilla Developer Network " href="http://developer.mozilla.org/web/" target="_blank">Web Developer Communi...la Developer Network </a></li>
-    <li>
-      <a title="Experts-Exchange versus StackOverflow" href="http://www.google.com/trends?q=%22stackoverflow%22,+%22expert+exchange%22" target="_blank">Experts-Exchange versus StackOverflow</a>
-    </li>
-    <li><a title="A Takedown of W3Schools > W3Fools.com" href="http://w3fools.com/" target="_blank">A Takedown of W3Schools &gt; W3Fools.com</a></li>
+    <li><a href="https://github.com/jefferyto/gedit-control-your-tabs" target="_blank">https://github.com/je...dit-control-your-tabs</a></li>
+    <li><a href="http://code.google.com/p/reopen-tabs-gedit-plugin/" target="_blank">http://code.google.co...en-tabs-gedit-plugin/</a></li>
+    <li><a class="zem_slink" title="Gedit" href="http://www.gnome.org/projects/gedit/" rel="homepage">Gedit</a></li>
+    <li><a href="http://halfhourhacks.blogspot.com/2008/03/gedit-regular-expression-plugin.html" target="_blank">http://halfhourhacks....xpression-plugin.html</a></li>
+    <li><a class="zem_slink" title="Regular expression" href="http://en.wikipedia.org/wiki/Regular_expression" rel="wikipedia">Regular expression</a></li>
+    <li><a href="http://hartmann-it-design.de/gedit/TextWrap/" target="_blank">http://hartmann-it-design.de/gedit/TextWrap/</a></li>
+    <li><a class="zem_slink" title="Word wrap" href="http://en.wikipedia.org/wiki/Word_wrap" rel="wikipedia">Word wrap</a></li>
+    <li><a href="http://empty.23inch.de/pmwiki.php/Main/EditShortcuts" target="_blank">http://empty.23inch.d...hp/Main/EditShortcuts</a></li>
+    <li><a href="http://www.stambouliote.de/projects/gedit_plugins.html" target="_blank">http://www.stamboulio...ts/gedit_plugins.html</a></li>
+    <li><a href="http://code.google.com/p/gedit-open-folder/" target="_blank">http://code.google.com/p/gedit-open-folder/</a></li>
+    <li><a href="http://blog.goranrakic.com/archives/tabclose.html" target="_blank">http://blog.goranraki...rchives/tabclose.html</a></li>
+    <li><a href="https://github.com/dinkel/gedit-zoom/downloads/" target="_blank">https://github.com/di...gedit-zoom/downloads/</a></li>
+    <li><a href="http://code.google.com/p/gedit-tabsextend/">http://code.google.com/p/gedit-tabsextend/</a></li>
   </ul>
 </div>
