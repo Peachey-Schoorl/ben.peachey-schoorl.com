@@ -3,7 +3,7 @@
     list-style-type: decimal-leading-zero;
   }
 
-  ol[start="2008"]>li:nth-child(3) {
+  li:empty {
     font-style: italic;
     opacity: 0.25;
   }
